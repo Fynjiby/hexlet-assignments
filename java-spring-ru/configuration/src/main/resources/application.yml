@@ -1,0 +1,15 @@
+---
+server:
+  port : 7070
+
+spring:
+  output:
+    ansi:
+      enabled : ALWAYS
+
+users:
+  admins:
+    - Emmit Brundle
+    - Glynn Joinsey
+    - Sarina Crosi
+
